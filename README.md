@@ -3,8 +3,6 @@ This is the source code and experiment results in the paper ['A New Transfer Lea
 
 However, this is not the code that we used in the original paper. This is the code and results that were created in the Researchs of HUCE students, which included one original author of the paper (which is me :D), in order to re-run the experimetals.
 
-This research is conducted along with Hải, Duy, Đạt, Phúc.
-
 Raw data: [ETC Data](https://drive.google.com/drive/folders/15mljCBCCjsINtjM3CqB-afy2xZ0Shgp2)
 
 ## Abstract
